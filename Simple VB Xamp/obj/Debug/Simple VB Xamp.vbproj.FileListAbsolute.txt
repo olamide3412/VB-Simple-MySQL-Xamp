@@ -1,0 +1,44 @@
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\Simple VB Xamp.exe.config
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\Simple VB Xamp.exe
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\Simple VB Xamp.pdb
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\Simple VB Xamp.xml
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\MySql.Data.dll
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\Google.Protobuf.dll
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\MySql.Data.xml
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\obj\Debug\Simple VB Xamp.vbprojAssemblyReference.cache
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\obj\Debug\Simple_VB_Xamp.Form1.resources
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\obj\Debug\Simple_VB_Xamp.Resources.resources
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\obj\Debug\Simple VB Xamp.vbproj.GenerateResource.cache
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\obj\Debug\Simple VB Xamp.vbproj.CoreCompileInputs.cache
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\obj\Debug\Simple VB Xamp.vbproj.CopyComplete
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\obj\Debug\Simple VB Xamp.exe
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\obj\Debug\Simple VB Xamp.xml
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\obj\Debug\Simple VB Xamp.pdb
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\System.Buffers.dll
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\System.Memory.dll
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\ZstdSharp.dll
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\Google.Protobuf.xml
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\System.Buffers.xml
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\System.Memory.xml
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ola\source\repos\Simple VB Xamp\Simple VB Xamp\bin\Debug\System.Threading.Tasks.Extensions.xml

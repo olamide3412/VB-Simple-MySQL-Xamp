@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Simple VB Xamp", "Simple VB Xamp\Simple VB Xamp.vbproj", "{0296EA0D-EC89-4712-AF61-A2E1CE244887}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0296EA0D-EC89-4712-AF61-A2E1CE244887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0296EA0D-EC89-4712-AF61-A2E1CE244887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0296EA0D-EC89-4712-AF61-A2E1CE244887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0296EA0D-EC89-4712-AF61-A2E1CE244887}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8128FDB1-A3DF-49B2-8D4F-B3B2552A15A6}
+	EndGlobalSection
+EndGlobal
